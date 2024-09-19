@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "TTHoves";
+    src: url(../../fonts/TTHoves-Regular.woff),
+        url(../../fonts/TTHoves-Regular.woff2);
+    display: swap;
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "TTHoves";
+    src: url(../../fonts/TTHoves-Medium.woff),
+        url(../../fonts/TTHoves-Medium.woff2);
+    display: swap;
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "TTHoves";
+    src: url(../../fonts/TTHoves-DemiBold.woff),
+        url(../../fonts/TTHoves-DemiBold.woff2);
+    display: swap;
+    font-style: normal;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "TTHoves";
+    src: url(../../fonts/TTHoves-Bold.woff),
+        url(../../fonts/TTHoves-Bold.woff2);
+    display: swap;
+    font-style: normal;
+    font-weight: 700;
+}
+
+
+@font-face {
+    font-family: "TTHoves";
+    src: url(../../fonts/TTHoves-Black.woff),
+        url(../../fonts/TTHoves-Black.woff2);
+    display: swap;
+    font-style: normal;
+    font-weight: 900;
+}

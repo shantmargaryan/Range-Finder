@@ -1,0 +1,61 @@
+<svg  fill="none" style="visibility: hidden; position: absolute;" aria-hidden="true">
+    <symbol id="Bubbles"  viewBox="0 0 214.608 267.164" fill="none"
+        xmlns="http://www.w3.org/2000/svg">
+        <defs>
+            <radialGradient gradientTransform="translate(162.319 55.1147) rotate(110.973) scale(181.617 181.617)"
+                cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_3_15_0__Bubbles"
+                gradientUnits="userSpaceOnUse">
+                <stop stop-color="#FFFFFF" />
+                <stop offset="1.000000" stop-color="#DDDDDD" stop-opacity="0.000000" />
+            </radialGradient>
+            <radialGradient gradientTransform="translate(162.319 55.1147) rotate(110.973) scale(181.617 181.617)"
+                cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_3_15_1__Bubbles"
+                gradientUnits="userSpaceOnUse">
+                <stop stop-color="#FFFFFF" />
+                <stop offset="1.000000" stop-color="#7EA484" />
+            </radialGradient>
+            <radialGradient gradientTransform="translate(26.7223 127.176) rotate(110.973) scale(39.025 39.025)"
+                cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_3_16_0__Bubbles"
+                gradientUnits="userSpaceOnUse">
+                <stop stop-color="#FFFFFF" />
+                <stop offset="1.000000" stop-color="#DDDDDD" stop-opacity="0.000000" />
+            </radialGradient>
+            <radialGradient gradientTransform="translate(26.7223 127.176) rotate(110.973) scale(39.025 39.025)"
+                cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_3_16_1__Bubbles"
+                gradientUnits="userSpaceOnUse">
+                <stop stop-color="#FFFFFF" />
+                <stop offset="1.000000" stop-color="#7EA484" />
+            </radialGradient>
+            <radialGradient gradientTransform="translate(66.6889 221.965) rotate(110.973) scale(67.5433 67.5433)"
+                cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_3_17_0__Bubbles"
+                gradientUnits="userSpaceOnUse">
+                <stop stop-color="#FFFFFF" />
+                <stop offset="1.000000" stop-color="#DDDDDD" stop-opacity="0.000000" />
+            </radialGradient>
+            <radialGradient gradientTransform="translate(66.6889 221.965) rotate(110.973) scale(67.5433 67.5433)"
+                cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_3_17_1__Bubbles"
+                gradientUnits="userSpaceOnUse">
+                <stop stop-color="#FFFFFF" />
+                <stop offset="1.000000" stop-color="#7EA484" />
+            </radialGradient>
+        </defs>
+        <circle id="Bubble__Bubbles" cx="126.282654" cy="88.324860" r="88.324860" fill="#E6E6E6"
+            fill-opacity="1.000000" />
+        <circle id="Bubble__Bubbles" cx="126.282654" cy="88.324860" r="88.324860"
+            fill="url(#paint_radial_3_15_0__Bubbles)" fill-opacity="1.000000" />
+        <circle id="Bubble__Bubbles" cx="126.282654" cy="88.324860" r="88.324860"
+            fill="url(#paint_radial_3_15_1__Bubbles)" fill-opacity="1.000000" />
+        <circle id="Bubble__Bubbles" cx="18.978882" cy="134.312149" r="18.978895" fill="#E6E6E6"
+            fill-opacity="1.000000" />
+        <circle id="Bubble__Bubbles" cx="18.978882" cy="134.312149" r="18.978895"
+            fill="url(#paint_radial_3_16_0__Bubbles)" fill-opacity="1.000000" />
+        <circle id="Bubble__Bubbles" cx="18.978882" cy="134.312149" r="18.978895"
+            fill="url(#paint_radial_3_16_1__Bubbles)" fill-opacity="1.000000" />
+        <circle id="Bubble__Bubbles" cx="53.286896" cy="234.316345" r="32.848087" fill="#E6E6E6"
+            fill-opacity="1.000000" />
+        <circle id="Bubble__Bubbles" cx="53.286896" cy="234.316345" r="32.848087"
+            fill="url(#paint_radial_3_17_0__Bubbles)" fill-opacity="1.000000" />
+        <circle id="Bubble__Bubbles" cx="53.286896" cy="234.316345" r="32.848087"
+            fill="url(#paint_radial_3_17_1__Bubbles)" fill-opacity="1.000000" />
+    </symbol>
+</svg>
